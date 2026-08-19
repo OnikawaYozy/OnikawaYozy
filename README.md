@@ -6,7 +6,7 @@ View count: ![](https://visitor-badge.laobi.icu/badge?page_id=onikawayozy)
 <details>
   <summary><b>Several profiles on other coding platforms</b></summary>
   <br>
-  <h1 style="margin-bottom: 10px;">Take a look at my profiles on other coding platforms!</h1>
+  <h1 style="margin-bottom: 10px;">Take a look at my profiles on other coding platforms:)!</h1>
   <p>
     <a href="https://lqdoj.edu.vn/user/OnikawaYozy">LQDOJ</a> | 
     <a href="https://ltoj.edu.vn/user/OnikawaYozy">LTOJ</a> | 
