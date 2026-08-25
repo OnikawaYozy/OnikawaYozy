@@ -20,6 +20,9 @@ View count: ![](https://visitor-badge.laobi.icu/badge?page_id=onikawayozy)
     <a href="https://codewars.com/users/OnikawaYozy">CodeWars</a> | 
     <a href="https://codechef.com/users/onikawayozy">CodeChef</a> | 
     <a href="https://atcoder.jp/users/OnikawaYozy">AtCoder</a> | 
-    <a href="https://hackerrank.com">HackerRank</a>
+    <a href="https://www.hackerrank.com/profile/OnikawaYozy">HackerRank</a> | 
+    <a href="https://hnoj.edu.vn/user/OnikawaYozy">HNOJ</a> | 
+    <a href="https://coding.fit.hcmus.edu.vn/user/OnikawaYozy">FIT-HCMUS OJ</a> | 
+    <a href="https://lhpoj.io.vn/user/OnikawaYozy">LHPOJ</a>
   </p>
 </details>
