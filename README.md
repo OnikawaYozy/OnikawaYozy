@@ -23,6 +23,7 @@ View count: ![](https://visitor-badge.laobi.icu/badge?page_id=onikawayozy)
     <a href="https://www.hackerrank.com/profile/OnikawaYozy">HackerRank</a> | 
     <a href="https://hnoj.edu.vn/user/OnikawaYozy">HNOJ</a> | 
     <a href="https://coding.fit.hcmus.edu.vn/user/OnikawaYozy">FIT-HCMUS OJ</a> | 
-    <a href="https://lhpoj.io.vn/user/OnikawaYozy">LHPOJ</a>
+    <a href="https://lhpoj.io.vn/user/OnikawaYozy">LHPOJ</a> | 
+    <a href="https://open.kattis.com/users/onikawayozy">KATTIS</a>
   </p>
 </details>
