@@ -25,5 +25,6 @@ View count: ![](https://visitor-badge.laobi.icu/badge?page_id=onikawayozy)
     <a href="https://coding.fit.hcmus.edu.vn/user/OnikawaYozy">FIT-HCMUS OJ</a> | 
     <a href="https://lhpoj.io.vn/user/OnikawaYozy">LHPOJ</a> | 
     <a href="https://open.kattis.com/users/onikawayozy">KATTIS</a>
+    <a href="https://www.naukri.com/code360/profile/OnikawaYozy">NaukriCode360</a>
   </p>
 </details>
