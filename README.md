@@ -25,6 +25,13 @@ View count: ![](https://visitor-badge.laobi.icu/badge?page_id=onikawayozy)
     <a href="https://coding.fit.hcmus.edu.vn/user/OnikawaYozy">FIT-HCMUS OJ</a> | 
     <a href="https://lhpoj.io.vn/user/OnikawaYozy">LHPOJ</a> | 
     <a href="https://open.kattis.com/users/onikawayozy">KATTIS</a> | 
-    <a href="https://www.naukri.com/code360/profile/OnikawaYozy">NaukriCode360</a>
+    <a href="https://www.naukri.com/code360/profile/OnikawaYozy">NaukriCode360</a> 
+    <a href="https://samcoding.uz/profile/onikawayozy">SamCoding</a> 
+    <a href="https://eolymp.com/users/OnikawaYozy">Eolymp</a> 
+    <a href="https://profiles.topcoder.com/onikawayozy">TopCoder</a> 
+    <a href="https://tlx.toki.id/profiles/OnikawaYozy">TLX</a> 
+    <a href="https://doj.kr/en/user/OnikawaYozy">DOJ</a> 
+    <a href="https://kep.uz/users/topaznguyen99">KEP.uz</a> 
+    <a href="https://toph.co/u/topaznguyen99">Toph</a>
   </p>
 </details>
